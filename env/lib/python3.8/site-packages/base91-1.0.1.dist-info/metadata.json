@@ -1,0 +1,1 @@
+{"generator": "bdist_wheel (0.26.0)", "summary": "Base91 encoding in Python", "extensions": {"python.details": {"project_urls": {"Home": "https://github.com/SunDwarf/base91-python"}, "document_names": {"description": "DESCRIPTION.rst"}}}, "license": "New BSD", "metadata_version": "2.0", "name": "base91", "version": "1.0.1"}

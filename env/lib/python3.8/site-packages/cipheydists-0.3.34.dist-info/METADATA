@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: cipheydists
+Version: 0.3.34
+Summary: A collection of distributions, character sets and dictionaries for use in ciphey
+Author: Cyclic3
+Author-email: cyclic3.git@gmail.com
+Requires-Python: >=3.5,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
